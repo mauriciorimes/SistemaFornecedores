@@ -1,2 +1,7 @@
-Sistema para cadastro de fornecedores, onde pode adicionar imagens, controle de fornecedores ativos e inativos com
-barra de porcentagem atualizada. Com banco de dados.
+Sistema desktop utilizando JavaFX, Netbeans e o SGBD MySQL.
+
+Validações e especificações:
+
+- CRUD de itens, incluindo o carregamento e visualização da imagem do item
+- Controle e marcação de itens (adquiridos / faltantes / lidos / ouvidos... etc).
+- Estatística dos itens (% itens adquiridos / faltantes / lidos / ouvidos...).
